@@ -1,6 +1,7 @@
 # Hello, Stranger! :wave:
 
 * :seedling: I'm currently immersed in the study of new technologies
-* :speech_balloon: Ask me about anything via e-mail
+* :briefcase: I'm ready to consider job offers
+* :speech_balloon: Ask me about anything via e-mail shown in my profile
 
 ...and don't forget your towel!
