@@ -1,1 +1,1 @@
-[![dotfiles: zsxoff](https://img.shields.io/badge/dotfiles-zsxoff-263137.svg)](https://github.com/zsxoff/dotfiles) [![whatiuse: zsxoff](https://img.shields.io/badge/What%20I%20Use-zsxoff-263137.svg)](https://github.com/zsxoff/whatiuse)
+[![dotfiles: zsxoff](https://img.shields.io/badge/dotfiles-zsxoff-263137.svg)](https://github.com/zsxoff/dotfiles) [![whatiuse: zsxoff](https://img.shields.io/badge/whatiuse-zsxoff-263137.svg)](https://github.com/zsxoff/whatiuse)
