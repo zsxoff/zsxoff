@@ -1,1 +1,1 @@
-[![dotfiles: zsxoff](https://img.shields.io/badge/dotfiles-zsxoff-263137.svg)](https://github.com/zsxoff/dotfiles) [![whatiuse: zsxoff](https://img.shields.io/badge/whatiuse-zsxoff-263137.svg)](https://github.com/zsxoff/whatiuse)
+[dotfiles](https://github.com/zsxoff/whatiuse) . [whatiuse](https://github.com/zsxoff/dotfiles)
